@@ -471,6 +471,9 @@ footer ul {
     gap: 0px;
   }
   /* Hebergement et Populaire */
+  .hebergements-and-populaires section {
+    border-radius: 0px;
+  }
 
   .hebergements-and-populaires {
     display: flex;
